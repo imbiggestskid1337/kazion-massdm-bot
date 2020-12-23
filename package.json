@@ -1,0 +1,25 @@
+{
+  "name": "kazion-massdm-bot",
+  "version": "1.0.0",
+  "description": "A simple massdm bot made by @kazion#1337 written in node.js.",
+  "main": "kazion.js",
+  "scripts": {
+    "start": "node kazion.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/kazion1337"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
